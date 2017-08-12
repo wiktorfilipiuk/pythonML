@@ -1,4 +1,7 @@
+import sys 
+sys.path.append('./2linearRegression')
 import LinReg as lr
+
 import matplotlib.pyplot as plt
 from matplotlib import style
 import numpy as np
